@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keywordspec name="md5" type="LIBRARY" format="ROBOT" scope="GLOBAL" namedargs="true" generated="2021-07-02T02:26:40Z" specversion="2" source="D:\pythonproject\robotframeworkpy\mayijinrong\kaifazhe\resources\md5.py" lineno="1">
+<version />
+<scope>global</scope>
+<namedargs>yes</namedargs>
+<doc>Documentation for library ``md5``.</doc>
+<kw name="Md 5">
+<arguments>
+</arguments>
+<doc>*Creating keyword failed:* Keyword with same name defined multiple times.</doc>
+</kw>
+</keywordspec>
